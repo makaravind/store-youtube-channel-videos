@@ -1,4 +1,4 @@
-# store-youtube-channel-videos
+# YOUTUBE VIDEOS STORER 
 
 This is a node.js script which retrives all uploads by a youtube channel and stores the details in the google spreadsheet
 specified.
@@ -15,4 +15,4 @@ Google OAuth authentication is required to access the google APIs, find the nece
 
 # Contribution
 
-Feel free to fork the repo to extend the feature of the project and shatre your wonders with the world. 
+Feel free to fork the repo to extend the feature of the project and share your wonders with the world. 
